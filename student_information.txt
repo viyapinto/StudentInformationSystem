@@ -7,3 +7,11 @@ Gender : Female
 Email : viyapinto@gmail.com
 Mobile Number : 7483567636
 Address : Bengaluru, Karnataka
+
+VERSION 2: PARENTS DETAILS
+Fathers Name : Raj Kumar
+Fathers Occupation : Business
+Fathers Mobile : 9876543211
+Mothers Name : Lakshmi
+Mothers Occupation : Teacher
+Mothers Mobile : 9876543212
