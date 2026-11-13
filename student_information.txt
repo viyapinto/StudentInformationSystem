@@ -1,0 +1,9 @@
+STUDENT INFORMATION SYSTEM
+VERSION 1: PERSONAL DETAILS
+Student Name : Viya Pinto
+Register Number : 246001
+Date of Birth : 19-04-2005
+Gender : Female
+Email : viyapinto@gmail.com
+Mobile Number : 7483567636
+Address : Bengaluru, Karnataka
